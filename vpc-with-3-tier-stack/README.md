@@ -1,4 +1,4 @@
-1. run vpc-with-3-tier-stack, which will create vpn and security groups needed
+1. run vpc-with-3-tier-stack, which will create vpc and security groups needed
 2. Manually create rds instance
 3. Manually create efs instance
 4. create group and application load balancer
